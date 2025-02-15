@@ -43,4 +43,3 @@
 
 ---
 
-### Congrats, you’ve reached the end. Now go do something productive. 
