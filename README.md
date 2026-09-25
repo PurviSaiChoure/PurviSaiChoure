@@ -3,14 +3,14 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 **Final-year B.Tech IT Student** with a strong passion for **Artificial Intelligence** and **Backend Development**.
-- 💻 **Experienced** in building intelligent solutions and working on data-driven projects.
-- 🌱 **Currently learning DevOps** to expand my skill set and bring more efficiency to the deployment and scaling of applications.
-- 🔍 Continuously exploring new advancements in **AI**, **backend development**, and **DevOps practices**.
+- **Final-year B.Tech IT Student** with a strong passion for **Artificial Intelligence** and **Backend Development**.
+- **Experienced** in building intelligent solutions and working on data-driven projects.
+- **Currently learning DevOps** to expand my skill set and bring more efficiency to the deployment and scaling of applications.
+- Continuously exploring new advancements in **AI**, **backend development**, and **DevOps practices**.
 
 ---
 
-### 📊 Stats
+### Stats
 
 <div align="center">
   
@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
